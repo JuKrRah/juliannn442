@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juliannn442
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python, HTML/CSS, React, node.js
+- 💞️ I’m looking to collaborate on useful, applicable projects
+- 📫 How to reach me: Twitter: https://twitter.com/tech_plus_more
